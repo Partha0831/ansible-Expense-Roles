@@ -1,0 +1,15 @@
+[local]
+localhost
+
+[backend]
+backend.devopspractice.in
+
+[frontend]
+frontend.devopspractice.in
+
+[mysql]
+mysql.devopspractice.in
+
+[all:vars]
+ansible_user=ec2-user
+ansible_password=DevOps321
